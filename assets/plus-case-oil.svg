@@ -1,0 +1,43 @@
+<svg width="760" height="420" viewBox="0 0 760 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FCFF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#14313B" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="760" height="420" rx="30" fill="url(#bg)"/>
+  <path d="M96 342C158 262 238 280 306 208C370 140 444 196 512 132C578 68 640 92 700 50" stroke="#E8F4F8" stroke-width="44" stroke-linecap="round"/>
+  <rect x="42" y="38" width="156" height="44" rx="22" fill="#DDF6FA"/>
+  <text x="120" y="67" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="900" fill="#087D90">变量清单</text>
+  <text x="54" y="126" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="950" fill="#111827">把地缘新闻拆成时间表</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="168" width="676" height="150" rx="28" fill="#FFFFFF"/>
+    <line x1="126" y1="244" x2="632" y2="244" stroke="#E5EDF1" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(86 202)">
+      <circle cx="42" cy="42" r="40" fill="#111827"/>
+      <text x="42" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="950" fill="#FFD37C">30天</text>
+      <text x="42" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="900" fill="#FFFFFF">通航</text>
+    </g>
+    <g transform="translate(246 202)">
+      <circle cx="42" cy="42" r="40" fill="#F2F8FA"/>
+      <text x="42" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="950" fill="#087D90">60天</text>
+      <text x="42" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="900" fill="#607089">谈判</text>
+    </g>
+    <g transform="translate(406 202)">
+      <circle cx="42" cy="42" r="40" fill="#F2F8FA"/>
+      <text x="42" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="950" fill="#087D90">能源</text>
+      <text x="42" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="900" fill="#607089">豁免</text>
+    </g>
+    <g transform="translate(566 202)">
+      <circle cx="42" cy="42" r="40" fill="#F2F8FA"/>
+      <text x="42" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="950" fill="#087D90">资金</text>
+      <text x="42" y="64" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="900" fill="#607089">释放</text>
+    </g>
+  </g>
+  <rect x="62" y="340" width="636" height="42" rx="21" fill="#111827"/>
+  <text x="380" y="368" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="900" fill="#FFFFFF">先盯节点，再判断油价和风险偏好</text>
+</svg>

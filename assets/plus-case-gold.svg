@@ -1,0 +1,36 @@
+<svg width="760" height="420" viewBox="0 0 760 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FDFF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#14313B" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="760" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="42" y="38" width="156" height="44" rx="22" fill="#DDF6FA"/>
+  <text x="120" y="67" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="900" fill="#087D90">误读纠偏</text>
+
+  <g filter="url(#shadow)">
+    <rect x="46" y="118" width="282" height="220" rx="26" fill="#FFFFFF"/>
+    <text x="78" y="166" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="900" fill="#7C8496">普通快讯</text>
+    <text x="78" y="220" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="950" fill="#111827">银行批量备货</text>
+    <text x="78" y="272" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="750" fill="#657184">容易被理解成</text>
+    <text x="78" y="306" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="750" fill="#657184">持续新增买盘</text>
+  </g>
+
+  <path d="M360 232H404" stroke="#48BBCD" stroke-width="14" stroke-linecap="round"/>
+  <path d="M394 206L430 232L394 258" stroke="#48BBCD" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="446" y="104" width="268" height="248" rx="28" fill="#111827"/>
+    <text x="478" y="154" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="900" fill="#FFD37C">Plus结论</text>
+    <text x="478" y="210" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="950" fill="#FFFFFF">运营储备</text>
+    <text x="478" y="260" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="950" fill="#FFFFFF">≠ 持续买盘</text>
+    <rect x="478" y="296" width="94" height="34" rx="17" fill="#26323F"/>
+    <text x="525" y="319" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="900" fill="#AEEAF2">供需判断</text>
+    <rect x="586" y="296" width="86" height="34" rx="17" fill="#26323F"/>
+    <text x="629" y="319" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="900" fill="#FFE1A3">少被带偏</text>
+  </g>
+</svg>
