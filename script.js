@@ -1,5 +1,5 @@
 const revealTargets = document.querySelectorAll(
-  ".section, .feed-demo, .compare-section, .closing-section, .benefit, .plus-visual, .scenario-visual, .scenario-card, .value-summary"
+  ".section, .feed-demo, .compare-section, .function-section, .closing-section, .benefit, .function-item, .plus-visual, .scenario-visual, .scenario-card, .value-summary"
 );
 const stickyCta = document.querySelector(".sticky-cta");
 const closingSection = document.querySelector(".closing-section");
