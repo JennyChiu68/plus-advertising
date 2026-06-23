@@ -1,6 +1,6 @@
 # Plus Advertising
 
-金十数据钻石VIP获赠 Plus 权益宣传页，面向手机 App 比例设计。
+钻石VIP获赠 Plus 权益宣传页，面向手机 App 比例设计。
 
 ## 本地预览
 
