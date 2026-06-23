@@ -3,3 +3,8 @@ node_modules/
 dist/
 .env
 .env.*
+
+# Local design iterations not used by the final page
+assets/plus-ui-mockup.png
+assets/plus-vip-hero.png
+assets/plus-vip-hero-v2.png
